@@ -1,5 +1,5 @@
 
-## Sabina nega [*Juniperus phoenicea*]
+## Sabina negra [ *Juniperus phoenicea* ]
 
 La sabina negra es una especie de conífera que habita en la región mediterránea, alcanzando hasta las Islas Canarias. Es el símbolo natural de la isla de El Hierro. Arbusto de hasta 8 m de altura, de hoja verde y perenne, florece a finales de invierno o en primavera. Se cría en todo tipo de suelo y condiciones, desde el nivel del mar hasta cerca de los 1400 m, aguantando intensas heladas y climas muy secos.
 
