@@ -8,6 +8,8 @@ Las plantas contienen compuestos químicos conocidos como aceites esenciales, in
 El aceite esencial de la sabina negra es rico en el sesquiterpeno [thujopseno](https://es.wikipedia.org/wiki/Thujopseno), 
 un compuesto químico volátil utilizado para controlar plagas de manera natural. 
 
+![](./pics/thujopsene.png)
+
 
 ### Pregunta: ¿qué son los metabolitos secundarios?
 
