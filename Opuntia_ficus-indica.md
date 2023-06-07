@@ -4,7 +4,7 @@
 Planta arbustiva de la familia [*Cactaceae*](http://www.floraiberica.es/PHP/familias_lista_.php?familia=Cactaceae). 
 Florece una vez al año y tanto el fruto como la flor pueden ser de diversos colores, desde el amarillo al rojo. El fruto maduro (higo chumbo) tiene una cáscara gruesa, espinosa, y una pulpa abundante en semillas. Contiene un 85% de agua y es una fuente de hidratación para los humanos y los animales salvajes.
 
-Es nativa de Mesoamérica y se encuentra desde las praderas canadienses hasta el estrecho de Magallanes. Fue introducida en Europa por los conquistadores españoles para aprovechar suelos poco productivos del sur de la península ibérica.
+Es nativa de Mesoamérica y se encuentra desde las praderas canadienses hasta el estrecho de Magallanes. Fue introducida en Europa por los conquistadores españoles para aprovechar suelos poco productivos del sur de la península ibérica. En México se llama nopal, que viene de la lengua nahuatl, al igual que tomatl o xocolatl.
 
 El fruto contiene mucha vitamina C ([ácido ascórbico](https://es.wikipedia.org/wiki/%C3%81cido_asc%C3%B3rbico)) 
 y se usó para tratar el escorbuto. La vitamina C es necesaria para entrelazar de forma correcta las fibras de colágeno. Si no se incluye suficiente vitamina C en la dieta el colágeno es defectuoso, produciéndose caída de dientes, sangrado y, en casos severos incluso la muerte.
