@@ -24,6 +24,3 @@ número de genes que participan en la biosíntesis de ácidos grasos.
  [ ] 1001 genes de poblaciones europeas
 
  [ ] 2, uno para el ácido oleico y otro para la europeína
-
-
-[solución](./Olea_europaea_solucion.md)
