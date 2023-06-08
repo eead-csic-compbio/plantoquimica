@@ -19,7 +19,7 @@ número de genes que participan en la biosíntesis de ácidos grasos.
 
 ### Pregunta: ¿cuántos genes hay detrás de la síntesis de oleuropeína en la variedad arbequina?
 
- [ ] 202 genes que codifican al menos 20 enzimas 
+ [x] 202 genes que codifican al menos 20 enzimas
 
  [ ] 1001 genes de poblaciones europeas
 
