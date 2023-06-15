@@ -30,7 +30,3 @@ algarrobos son especies muy cercanas:
 
  [ ] España
 
-
-[solución](./Gleditsia_triacanthos_solucion.md)
-
-
