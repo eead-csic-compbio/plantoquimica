@@ -16,9 +16,10 @@ Se parece al fruto del árbol autóctono del
 El genoma de los cloroplastos, los orgánulos donde ocurre la fotosíntesis,
 se utiliza a menudo para desentrañar la historia evolutiva de las plantas.
 En comparación con el genoma nuclear de la planta, el cloroplástico es mucho más
-pequeño y fácil de estudiar. En un trabajo de [2020](https://www.nature.com/articles/s41598-020-73392-7/figures/5) 
-se compararon los de 155 especies y se encontró que efectivamente las gleditsias y los 
-algarrobos son especies muy cercanas:
+pequeño y fácil de estudiar. En un árbol evolutivo publicado en 
+[2020](https://www.nature.com/articles/s41598-020-73392-7/figures/5) 
+se compararon los genomas cloroplásticos de 155 especies y se encontró 
+que efectivamente las gleditsias y los algarrobos son especies muy cercanas:
 
 ![](./pics/gleditsiacp.png)
 
