@@ -23,13 +23,13 @@ que efectivamente las gleditsias y los algarrobos son especies muy cercanas:
 
 ![](./pics/gleditsiacp.png)
 
-### Pregunta: ¿Qué país es el mayor productor de algarrobas?
+### Pregunta: ¿Quiénes dibujaron los primeros árboles filogenéticos o de la vida para representar la evolución?
 
- [ ] Italia
+ [ ] Charles Darwin
 
- [ ] Líbano
+ [ ] Ernst Haeckel
 
- [ ] España
+ [ ] Carl Woese
 
 
 [solución](./Gleditsia_triacanthos_solucion.md)
