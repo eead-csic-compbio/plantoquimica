@@ -31,3 +31,4 @@ que efectivamente las gleditsias y los algarrobos son especies muy cercanas:
 
 [ ] Carl Woese
 
+**Nota:** puedes leer más sobre el árbol de la vida en este [libro](https://digital.csic.es/bitstream/10261/193541/1/Arbol_Vida.pdf)
