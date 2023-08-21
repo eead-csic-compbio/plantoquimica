@@ -35,3 +35,6 @@ herbívoros, lo que en la actualidad le hace sensible a ciertos hongos.
 
 
 [solución](./Fraxinus_angustifolia_solucion.md)
+
+https://github.com/eead-csic-compbio/plantoquimica
+

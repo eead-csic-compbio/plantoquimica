@@ -21,3 +21,6 @@ El [ácido salicílico](https://es.wikipedia.org/wiki/%C3%81cido_salic%C3%ADlico
 
 
 [solución](./Myrtus_communis_solucion.md)
+
+https://github.com/eead-csic-compbio/plantoquimica
+

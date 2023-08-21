@@ -20,3 +20,6 @@ La toxicidad de la planta está localizada principalmente en sus bayas rojas, qu
 
 
 [solución](./Ilex_pernyi_solucion.md)
+
+https://github.com/eead-csic-compbio/plantoquimica
+

@@ -27,3 +27,6 @@ número de genes que participan en la biosíntesis de ácidos grasos.
 
 
 [solución](./Olea_europaea_solucion.md)
+
+https://github.com/eead-csic-compbio/plantoquimica
+

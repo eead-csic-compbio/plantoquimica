@@ -30,3 +30,6 @@ y la region de 100Kbp aguas arriba, que determinan el
 
 
 [solución](./Ficus_carica_solucion.md)
+
+https://github.com/eead-csic-compbio/plantoquimica
+

@@ -35,3 +35,6 @@ que efectivamente las gleditsias y los algarrobos son especies muy cercanas:
 [solución](./Gleditsia_triacanthos_solucion.md)
 
 
+
+https://github.com/eead-csic-compbio/plantoquimica
+
