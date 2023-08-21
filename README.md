@@ -10,3 +10,5 @@ Vanesa Martínez imprimió las etiquetas con los códigos QR para escanear.
 ![](./pics/portada.png)
 
 [![EEAD](./pics/logoEEAD.png)](https://www.eead.csic.es)
+[![Consejo Superior de investigaciones Científicas](./pics/logoCSIC.png)](https://www.csic.es/es)
+
