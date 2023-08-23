@@ -34,5 +34,5 @@ se muestra a continuación:
 
 [solución](./Corylus_avellana_solucion.md)
 
-https://github.com/eead-csic-compbio/plantoquimica
+[[inicio]](https://github.com/eead-csic-compbio/plantoquimica)
 
