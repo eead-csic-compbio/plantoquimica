@@ -30,7 +30,7 @@ Textos preparados originalmente por Bruno Contreras Moreira y Manuel Matamoros G
 del 45 Congreso de la 
 [Sociedad Española de Bioquímica y Biología Molecular](https://sebbm.es) 
 en Zaragoza (5-8 de septiembre de 2023).
-Vanesa Martínez preparó las etiquetas con los códigos QR para escanear.
+Vanesa Martínez colaboró en la preparación de los códigos QR.
 
 <!--![](./pics/portada.png)-->
 
