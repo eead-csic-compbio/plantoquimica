@@ -22,5 +22,5 @@ un compuesto químico volátil utilizado para controlar plagas de manera natural
 
 [solución](./Juniperus_phoenicea_solucion.md)
 
-https://github.com/eead-csic-compbio/plantoquimica
 
+[[inicio]](https://eead-csic-compbio.github.io/plantoquimica)

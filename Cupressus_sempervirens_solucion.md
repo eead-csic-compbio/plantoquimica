@@ -20,3 +20,5 @@ Los taninos son compuestos producidos por las plantas como defensa natural. Hay 
 
 
 **Explicación**: Los taninos se utilizan en el curtido porque reaccionan con las proteínas de colágeno presentes en las pieles de los animales, uniéndolas entre sí; de esta forma, aumenta la resistencia de la piel al calor, a la putrefacción por agua y al ataque por microbios.
+
+[[inicio]](https://eead-csic-compbio.github.io/plantoquimica)

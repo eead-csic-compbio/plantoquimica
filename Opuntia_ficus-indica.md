@@ -23,5 +23,6 @@ y se usó para tratar el escorbuto. La vitamina C es necesaria para entrelazar d
 
 [solución](./Opuntia_ficus-indica_solucion.md)
 
-https://github.com/eead-csic-compbio/plantoquimica
+
+[[inicio]](https://eead-csic-compbio.github.io/plantoquimica)
 

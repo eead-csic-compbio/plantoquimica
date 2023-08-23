@@ -21,5 +21,5 @@ Los taninos son compuestos producidos por las plantas como defensa natural. Hay 
 
 [solución](./Cupressus_sempervirens_solucion.md)
 
-https://github.com/eead-csic-compbio/plantoquimica
+[[inicio]](https://eead-csic-compbio.github.io/plantoquimica)
 

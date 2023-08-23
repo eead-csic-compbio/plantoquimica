@@ -20,3 +20,4 @@ un compuesto químico volátil utilizado para controlar plagas de manera natural
  [ ] Son metabolitos de desecho que se excretan a través de las raíces.
 
 
+[[inicio]](https://eead-csic-compbio.github.io/plantoquimica)

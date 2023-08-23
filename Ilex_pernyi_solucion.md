@@ -19,3 +19,5 @@ La toxicidad de la planta está localizada principalmente en sus bayas rojas, qu
  [x]  En el cacao. También se encuentra en el chocolate y en las hojas de la planta del té.  
 
 **Explicación**: con el cacao los pueblos mesoamericanos preparaban el chocolate o bebida de los dioses, en griego *Theobroma*.
+
+[[inicio]](https://eead-csic-compbio.github.io/plantoquimica)
