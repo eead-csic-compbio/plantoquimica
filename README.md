@@ -22,7 +22,7 @@ o haciendo click en la siguiente lista:
 ![](./pics/mapa-species-jardin-botanico-parque-grande.png)
 [[Mapa de alta resolución]](./pics/jardin-botanico-145.jpg)
 
-QR de ejemplo:
+### Ejemplo de QR 
 
 ![](./QR/Ficus_carica.png)
 
