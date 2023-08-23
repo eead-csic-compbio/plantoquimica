@@ -22,6 +22,11 @@ o haciendo click en la siguiente lista:
 ![](./pics/mapa-species-jardin-botanico-parque-grande.png)
 [[Mapa de alta resolución]](./pics/jardin-botanico-145.jpg)
 
+QR de ejemplo:
+
+![](./QR/Ficus_carica.png)
+
+
 ### Créditos
  
 Textos preparados originalmente por Bruno Contreras Moreira y Manuel Matamoros Galindo 
