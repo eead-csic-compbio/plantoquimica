@@ -24,7 +24,7 @@ o haciendo click en la siguiente lista:
 
 ### Ejemplo de QR 
 
-![](./QR/Ficus_carica.png)
+![](./pics/ficus_carica_qr_small.png)
 
 
 ### Créditos
