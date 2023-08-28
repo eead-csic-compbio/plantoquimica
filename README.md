@@ -24,7 +24,7 @@ o haciendo click en la siguiente lista:
 
 ### URL
 
-https://eead-csic-compbio.github.io/plantoquimica
+[https://eead-csic-compbio.github.io/plantoquimica](https://eead-csic-compbio.github.io/plantoquimica)
 
 ### Ejemplo de QR 
 
