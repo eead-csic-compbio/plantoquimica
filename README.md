@@ -22,10 +22,13 @@ o haciendo click en la siguiente lista:
 ![](./pics/mapa-species-jardin-botanico-parque-grande.png)
 [[Mapa de alta resolución]](./pics/jardin-botanico-145.jpg)
 
+### URL
+
+https://eead-csic-compbio.github.io/plantoquimica
+
 ### Ejemplo de QR 
 
 ![](./pics/ficus_carica_qr_small.png)
-
 
 ### Créditos
  
